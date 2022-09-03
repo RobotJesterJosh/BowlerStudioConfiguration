@@ -94,6 +94,10 @@
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
     ],
+    "https://github.com/RobotJesterJosh/javaCad_RobotJesterJosh.git": [
+      "https://github.com/RobotJesterJosh/javaCad_RobotJesterJosh.git",
+      "1662234032851"
+    ],
     "https://github.com/madhephaestus/sutmanaphone.git": [
       "madhephaestus/sutmanaphone",
       "1617902393266"
@@ -146,6 +150,10 @@
     "https://github.com/RobotJesterJosh/helloWorld_RobotJesterJosh.git:helloWorld.groovy": [
       "https://github.com/RobotJesterJosh/helloWorld_RobotJesterJosh.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/RobotJesterJosh/javaCad_RobotJesterJosh.git:javaCad.groovy": [
+      "https://github.com/RobotJesterJosh/javaCad_RobotJesterJosh.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
