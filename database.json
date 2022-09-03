@@ -86,6 +86,10 @@
       "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
       "1644767052032"
     ],
+    "https://github.com/RobotJesterJosh/caddemoproject.git": [
+      "RobotJesterJosh/caddemoproject",
+      "1662234491032"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
@@ -105,10 +109,6 @@
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
       "1642878392873"
-    ],
-    "https://github.com/esuts/SVGExtrude_esuts.git": [
-      "esuts/SVGExtrude_esuts",
-      "1610298642984"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -154,6 +154,10 @@
     "https://github.com/RobotJesterJosh/javaCad_RobotJesterJosh.git:javaCad.groovy": [
       "https://github.com/RobotJesterJosh/javaCad_RobotJesterJosh.git",
       "javaCad.groovy"
+    ],
+    "https://github.com/RobotJesterJosh/caddemoproject.git:TestingStuff.groovy": [
+      "https://github.com/RobotJesterJosh/caddemoproject.git",
+      "TestingStuff.groovy"
     ]
   },
   "BowlerStudioConfigs": {
